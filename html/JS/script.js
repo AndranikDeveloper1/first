@@ -23,3 +23,6 @@ brend.addEventListener("click", function(){
     count++;
 
 })
+
+let a = 5
+console.log(a+6);
